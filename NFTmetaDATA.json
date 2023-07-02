@@ -1,0 +1,19 @@
+{
+  "attributes":[
+  {
+    "trait_type":"BODY",
+    "value":"Golden"},
+{
+    "trait_type":"Creature",
+    "value":"Coin"}
+    ],
+
+"name":"CrownCoin",
+
+"description":"CrownCoin Mint ecosystem. Deposit Via Minting A Digital Bank Draft",
+
+"image":"https://ipfs.io/ipfs/bafybeiawfozh63sjzxlz4nqlfhtrvmag6wd5i2jsh6i3o3yedotma6pg74/paymint.gif",
+ 
+"animation_url": "https://ipfs.io/ipfs/bafybeies2jn2tts3xt7clekb3hjj3qysctcr6vl2cassygwvvqlhl2gsru/tokenVideo.mp4"
+  
+} 
